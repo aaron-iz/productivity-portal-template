@@ -2,6 +2,8 @@
 
 A small template with dashboard page so I could have something to build off from for my personal projects.
 
+![image](https://github.com/user-attachments/assets/04511901-e766-40ef-ae25-2063bd5236aa)
+
 # Key features
 
 1. Ready to connect authentication page
