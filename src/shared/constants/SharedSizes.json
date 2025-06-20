@@ -1,0 +1,20 @@
+{
+    "Text": {
+        "Header": {
+            "MainTitle": {
+                "Order": 1,
+                "FontWeight": 100
+            },
+            "Card": {
+                "TextSize": "xl"
+            }
+        },
+        "SubHeadings": {
+            "Order": 3,
+            "FontWeight": 400
+        }
+    },
+    "Images": {
+        "LargeIconSize": 64
+    }
+}

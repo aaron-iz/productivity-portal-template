@@ -1,0 +1,61 @@
+{
+    "ContentSize": "md",
+    "Tabs": {
+        "Login": {
+            "Title": "Login",
+            "Value": "login"
+        },
+        "Register": {
+            "Title": "Register",
+            "Value": "register"
+        }
+    },
+    "Login": {
+        "Username": {
+            "Value": "username",
+            "Label": "Username",
+            "Placeholder": "Username",
+            "ErrorMessage": "Invalid username"
+        },
+        "Password": {
+            "Value": "password",
+            "Label": "Password",
+            "Placeholder": "Password"
+        },
+        "SubmitButton": {
+            "Label": "Login"
+        }
+    },
+    "Register": {
+        "FullName": {
+            "Value": "fullName",
+            "Label": "Full Name",
+            "Placeholder": "John Doe",
+            "ErrorMessage": "Invalid full name"
+        },
+        "Email": {
+            "Value": "email",
+            "Label": "Email",
+            "Placeholder": "your@email.com",
+            "ErrorMessage": "Invalid email",
+            "InformationTooltip": "Email must be in a proper email format. For example, 1jM0H@example.com"
+        },
+        "Username": {
+            "Value": "username",
+            "Label": "Username",
+            "Placeholder": "Username",
+            "ErrorMessage": "Invalid username",
+            "InformationTooltip": "Username must be at least 5 characters long and contain only letters, numbers, and underscores."
+        },
+        "Password": {
+            "Value": "password",
+            "Label": "Password",
+            "Placeholder": "Password",
+            "ErrorMessage": "Invalid password",
+            "InformationTooltip": "Password must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, and one number."
+        },
+        "SubmitButton": {
+            "Label": "Register"
+        }
+    }
+}

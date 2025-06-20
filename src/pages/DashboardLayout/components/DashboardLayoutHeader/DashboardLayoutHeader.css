@@ -1,0 +1,20 @@
+.headerContainer {
+    padding: 1rem 2rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 4rem;
+    overflow: hidden;
+
+    background-color: var(--mantine-color-surface-8);
+    border-radius: 0 0 var(--mantine-radius-xl) 0;
+}
+
+.logoContainer,
+.userInfo {
+    display: flex;
+    align-items: center;
+    gap: var(--mantine-spacing-lg);
+}
