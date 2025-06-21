@@ -2,13 +2,9 @@
 **Effective Date:** January 1, 2025  
 **Version 1.0**
 
----
-
 ## 1. Ownership and Copyright
 
 This software project ("the Software") is the intellectual property of **Aaron Iziyaev** ("the Author"). All rights are reserved unless explicitly granted in writing by the Author.
-
----
 
 ## 2. Contributions
 
@@ -19,8 +15,6 @@ You are permitted to submit code, documentation, or suggestions ("Contributions"
 - You are not permitted to alter or modify this license or distribute a version under any alternative license.
 - Submitting contributions does **not** grant you or anyone else the right to use, copy, modify, or distribute the Software.
 
----
-
 ## 3. Prohibited Use Without Explicit License
 
 Use, reproduction, distribution, modification, sublicensing, or deployment of the Software or any of its derivatives is **strictly prohibited** unless you have obtained **prior, written permission** from the Author.
@@ -30,8 +24,6 @@ This prohibition extends to:
 - Current and past versions of the Software.
 - Any forks or derived works, regardless of the license they may have carried at the time.
 - Any indirect or adapted use including integration, wrappers, or extensions.
-
----
 
 ## 4. Authorized Use Conditions
 
@@ -55,8 +47,6 @@ To the maximum extent permitted by law:
 - The Author and all contributors disclaim all warranties, express or implied.  
 - In no event shall the Author or contributors be liable for any damages or losses arising from the use, inability to use, or performance of the Software.
 
----
-
 ## 5. Unauthorized Use Penalty
 
 Any unauthorized use of the Software constitutes a breach of this license. In such cases, the violating party agrees to the following enforcement terms:
@@ -66,31 +56,21 @@ Any unauthorized use of the Software constitutes a breach of this license. In su
 
 This clause is enforceable in any jurisdiction where the Software was used or distributed.
 
----
-
 ## 6. License Duration and Scope
 
 - This license is effective from **January 1, 2025**, and applies indefinitely unless a future version of this license **explicitly revokes** it.  
 - All prior and future versions of the Software are covered under this license unless an alternative license has been granted in writing by the Author.
 
----
-
 ## 7. Severability
 
 If any clause of this license is found to be unenforceable or invalid under applicable law, the remaining provisions shall remain in full force and effect.
 
----
-
 ## 8. Governing Law
 
-This license shall be governed and interpreted in accordance with the laws of **[Your Country or State]**, without regard to conflict-of-law principles.
-
----
+This license may be enforced in any competent court of the State of Israel, the United States of America, or any member state of the European Union, subject to applicable international and local law.
 
 ## 9. Entire Agreement
 
 This license constitutes the entire agreement between the user and the Author regarding the Software. Any permissions, exemptions, or special terms must be documented in writing and signed by the Author.
-
----
 
 **© 2025-Present Aaron Iziyaev. All Rights Reserved.**
